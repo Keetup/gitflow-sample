@@ -1,5 +1,5 @@
 <?php
-$version = '1.0.1';
+$version = '1.0.0';
 
 echo "This is a new feature to wok in my develop branch";
 
