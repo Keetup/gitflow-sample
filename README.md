@@ -1,4 +1,4 @@
 gitflow-sample
 ==============
 
-Gitflow sample code
+This aims to give a litle sample of gitflow
